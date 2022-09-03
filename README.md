@@ -1,0 +1,1 @@
+# boilerplate_aspnetcore-6.0_minimal-api
